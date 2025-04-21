@@ -16,6 +16,7 @@ The core logic is housed under the `utils` module, with components like:
 
 - `index.rs`: Handles creating, updating, retrieving, and managing indexes.
 - `database.rs`: A simple wrapper for working with data stored in files.
+- `lib.rs`: This file contain test for the functionalities.
 
 ## 🧺as Overview
 
